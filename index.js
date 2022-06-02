@@ -17,3 +17,9 @@ fetch("https://pokeapi.co/api/v2/pokemon?limit=150")
 			page.innerHTML += box.outerHTML		
 	}
 })
+
+
+
+
+
+
